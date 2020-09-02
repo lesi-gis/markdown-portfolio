@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Cities
+  * Seattle
+  * San Diego
+* National Parks
+  * Yosemite
+  * Joshua Tree
